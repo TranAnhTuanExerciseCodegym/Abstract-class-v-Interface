@@ -1,3 +1,5 @@
+package animalTest;
+
 import animal.*;
 //import animal.Fruit;
 

@@ -1,3 +1,5 @@
+package animalTest;
+
 import animal.Animal;
 import animal.Chicken;
 import animal.Tiger;
